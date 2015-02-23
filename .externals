@@ -1,0 +1,8 @@
+[.]
+scm = git
+
+[Catalogues/Winterthur/Manifeste]
+path = Catalogues/Winterthur/Manifeste
+repository = git://github.com/consortium/content-Manifeste
+scm = git
+branch = master
