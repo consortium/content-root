@@ -3,6 +3,6 @@ scm = git
 
 [Catalogues/Winterthur/Manifeste]
 path = Catalogues/Winterthur/Manifeste
-repository = git://github.com/consortium/content-Manifeste
+repository = git@github.com:consortium/content-Manifeste.git
 scm = git
 branch = master
